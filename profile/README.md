@@ -6,7 +6,7 @@ Bem-vindo à organização "Journeys of Closure" no GitHub! Este espaço foi cri
 ## Repositórios
 
 ### [Frontend](#frontend)
-O repositório do frontend contém a base de código para a interface do jogo baseada na web, desenvolvida com Unity. Ele permite que os usuários criem e compartilhem suas memórias preciosas em um ambiente online interativo e belo.
+O repositório do frontend contém a base de código para a interface do jogo baseada na web, desenvolvida com Godot. Ele permite que os usuários criem e compartilhem suas memórias preciosas em um ambiente online interativo e belo.
 
 ### [Backend](#backend)
 Aqui você encontrará o código responsável por gerenciar a lógica do servidor, armazenamento de dados e APIs que alimentam a aplicação "Journeys of Closure".
@@ -16,7 +16,7 @@ Este repositório inclui toda a documentação necessária do projeto.
 
 ## Sobre "Journeys of Closure"
 
-"Journeys of Closure" é mais do que um jogo; é um memorial digital onde os usuários podem criar tributos duradouros para seus entes queridos. Com sua interface web cativante baseada em Unity, este projeto oferece uma maneira única de celebrar e lembrar as vidas daqueles que já se foram.
+"Journeys of Closure" é mais do que um jogo; é um memorial digital onde os usuários podem criar tributos duradouros para seus entes queridos. Com sua interface web cativante baseada em Godot, este projeto oferece uma maneira única de celebrar e lembrar as vidas daqueles que já se foram.
 
 ## Recursos Principais
 
